@@ -1,0 +1,188 @@
+[
+    {
+        "id": 1,
+        "name": "Pabellón criollo",
+        "description": [
+            "El pabellón criollo es un plato tradicional de Venezuela reconocido como el plato nacional por excelencia que forma parte de la gastronomía venezolana. ​El pabellón criollo tradicional está compuesto por arroz blanco cocido, carne mechada, caraotas negras y tajadas de plátano maduro frito.",
+            "La historia del pabellón data de los tiempos de la colonia, probablemente del siglo XVIII,​ y según se cuenta es básicamente una reunión de -sobras- de comidas anteriores realizada por los esclavos de las haciendas: así la carne, el arroz y las caraotas negras generalmente databan de un día anterior o dos, siendo las tajadas de plátano lo único que se preparaba en el momento.",
+            "Se suele hacer referencia a que el plato representa a las tres grandes culturas venezolanas[cita requerida]: europea(blanco: arroz), indígena(moreno: carne) y africana(negro: caraotas).Sin embargo está afirmación es meramente poética y se basa en el color de los productos.El arroz es oriundo de Asia y la caraota de Centroamérica."
+        ],
+        "from": "Venezuela",
+        "ingredients": "Arroz blanco cocido, carne desmechada, caraotas negras -refritas-, tajadas de plátano maduro frito.",
+        "characteristics": [
+            "Existen variaciones del plato original:",
+            "Pabellón con baranda: las tajadas de plátano son dispuestas alrededor del plato formando una baranda.",
+            "Pabellón a caballo: además de los ingredientes anteriormente mencionados, añade un huevo de gallina frito.",
+            "Pabellón con arepas: generalmente se come de desayuno, y consiste en sustituir el arroz blanco por arepas, se puede acompañar de queso blanco rallado, aguacate con sal y hasta huevos revueltos. También se le conoce como pabellón mañanero.",
+            "Pabellón vegetariano:existe una variación del pabellón criollo para las personas que no comen carne y es que, se sustituye la carne desmechada casi siempre por berenjenas. Otra variante consiste en cortar en tiras finas la cáscara de un plátano -pintón- (entre verde y maduro) previamente hervido y guisarlas con el sofrito.",
+            "En los Llanos es usual añadir queso blanco duro rallado al plátano y las caraotas y hacer la carne desmechada con cortes de animales de caza como venado, chigüire o lapa.",
+            "En el occidente del país y en los Llanos Centrales, en ocasiones se suele cambiar el arroz por espagueti y se acompaña con un huevo de gallina frito. En este caso se hace llamar pabellón alterado.",
+            "Pabellón margariteño: en Oriente y las regiones costeras se agrega azúcar a las carotas negras y en ocasiones la carne desmechada se sustituye por pescados o mariscos preparados de la misma manera (especialmente en la Isla de Margarita, en donde se sirve cazón —cría de tiburón— desmechado y guisado).",
+            "En el estado Lara, se sustituye la tradicional carne desmechada por carne deshebrada y frita de ganado caprino, la cual se hace llamar pata e-grillo.",
+            "En Los Andes y parte del Zulia se usan tostones de plátano verde en vez de tajadas de plátano maduro.",
+            "En el Zulia la carne desmechada también puede ser preparada con coco.",
+            "También existe una variante poco común en la cual las tajadas de plátano se sustituyen por plátano maduro horneado o asado, el cual se espolvorea con queso blanco duro rallado. Otra variante también poco común es sustituir la carne mechada por carne molida guisada."
+        ],
+        "image": "assets/images/Pabellón_Criollo_Venezolano.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Bandeja paisa",
+        "description": [
+            "La bandeja paisa es el plato más representativo y la insignia de la gastronomía antioqueña, y es propio de esta región, Antioquia.",
+            "Una de las características fundamentales de este plato es su abundancia, tanto en cantidad como en variedad de alimentos, de tal modo que la bandeja paisa completa solo cabe servirla en platos grandes llamados bandejas.",
+            "En su forma y composición actual, es un plato de desarrollo reciente; para los paladares del resto de Colombia, como desarrollo de estrategia comercial y culinaria, no aparecen referencias en los libros de cocina anteriores a 1950 ni en otros documentos anteriores a esa fecha en la gastronomía colombiana,[cita requerida] pero por esta razón no quiere decir que es un plato nuevo. El plato tiene sus orígenes en el envuelto antioqueño, que desde mediados del siglo XIX conformaba la única alimentación que acompañaba al arriero de la región antioqueña y del antiguo Viejo Caldas. Es un compuesto culinario con abundante proporción de carbohidratos, ya que debía suplir el gran gasto de energía en las jornadas de viaje que tenía que desarrollar el arriero antioqueño en su trabajo diario. Se dice que fue bautizado como plato oficial en Bogotá, en COTELCO ( Asociación Hotelera y Turística de Colombia), cuando al crear el primer manual de platos típicos se observa que para la región de Antioquia no existía un plato típico característico.",
+            "Es probablemente una evolución comercial, desarrollada en los restaurantes antioqueños de Medellín, Bogotá y otros sitios de Colombia, a partir del tradicional «seco» antioqueño, un plato compuesto por arroz, frijol, carne, algo de frito y plátano, y acompañado con arepa.También puede haber evolucionado a partir de otro plato de común usanza en la región, conocido en la actualidad como «típico montañero» o simplemente «típico».Dicho lo anterior, se debe recalcar que el envuelto antioqueño y su derivación en -seco,- como se denomina al plato típico de la cocina vernácula paisa, es la base culinaria de lo que se conoce como bandeja paisa, y sus orígenes se remontan a la colonización misma de la región paisa colombiana."
+        ],
+        "from": "Antioquia - Colombia",
+        "ingredients": "Carne desmechada, morcilla, arroz, fríjoles rojos, plátano maduro, carne molida chicharrón, huevo frito, chorizo, aguacate, arepa, hogao, guiso.",
+        "characteristics": [
+            "Este plato se sirve en una vajilla amplia, de varias piezas, y ovalada (tipo bandeja). En su presentación clásica tradicional o autóctona está compuesto por trece ingredientes invariables; once de ellos dispuestos en las mencionadas bandejas o platos, y dos más como acompañamiento:",
+            "Arroz blanco",
+            "Carne de res molida, y sudada o asada",
+            "Chicharrón",
+            "Huevo frito",
+            "Tajadas de plátano maduro o Patacón",
+            "Chorizo antioqueño con limón",
+            "Arepa antioqueña",
+            "Hogao Con tomate y cebolla",
+            "Fríjoles Cargamanto",
+            "Aguacate.",
+            "Acompañamiento",
+            "Mazamorra con leche",
+            "Panela molida, dulce macho o bocadillo de guayaba.",
+            "Del plato se encuentran variaciones en todas las regiones de Antioquia, en el Viejo Caldas, en el Tolima y el Valle del Cauca, que incorporan o reemplazan algunos de sus componentes, sin que todas estas variaciones puedan llamarse, en sentido estricto, bandeja paisa.",
+            "En algunos restaurantes típicos antioqueños se ofrece una variación (o extensión) del conjunto original de componentes de la bandeja paisa, con el nombre de «Bandeja de las siete carnes», la cual añade, a los dieciocho componentes iniciales, carnes de res y cerdo asadas, morcilla antioqueña e hígado de cerdo a la plancha que, con el chorizo antioqueño, el chicharrón y la carne en polvo, constituyen las mencionadas siete carnes.[cita requerida]"
+        ],
+        "image": "assets/images/Bande_Paisa_Colombiano.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Pot au feu [Olla de fuego]",
+        "description": [
+            "El pot-au-feu es un plato tradicional y típico de la cocina francesa, compuesto de carne de buey que se cuece en un caldo aromatizado por hortalizas y un bouquet garni. Según algunos autores españoles, este cocido sería influencia de la olla podrida típica de la cocina española del siglo XVII.​ Pero el pot-au-feu pertenece a la extensa familia de los cocidos franceses, platos ancestrales de origen rural y humilde que existen en toda Europa, por lo que las variantes regionales y nacionales son numerosas dependiendo de los ingredientes locales."
+        ],
+        "from": "Francia",
+        "ingredients": "Carne cartilaginosa , como el rabo de buey y el tuétano; tubérculos como zanahorias , nabos , chirivías , apio , cebolla pero también repollo blanco y puerros; bouquet garni , sal, pimienta negra y clavo",
+        "characteristics": [
+            "Presentación",
+            "Se sirve aparte el caldo resultado de la cocción, en el que a veces se cuecen fideos, arroz o pasta, aunque a menudo se reserva para la cena. Al mismo tiempo se separa el tuétano de los huesos, que los comensales pueden comer en tostada. Luego se sirve la carne, acompañada de una pizca de mostaza de Dijon, junto con las verduras. Los restos de carne se pueden picar y utilizarse para la elaboración de un pastel de carne, pero no es habitual en Francia.",
+            "Historia",
+            "Cocer alimentos en una olla de barro constituye uno de los principios básicos de la historia culinaria universal. Inicialmente la palabra pot-au-feu designaba la olla o pote (pot) que se ponía en la lumbre (feu), y en la que se cocían juntos diversos ingredientes en un líquido durante horas. El nombre del recipiente pasó a ser un término genérico para su contenido más común: las sopas y potajes a base de carnes y hortalizas. A la misma familia pertenecen las potées francesas aunque en la mayoría de éstas el caldo se consume durante la cocción, a diferencia del pot-au-feu.",
+            "Cultura",
+            "Es un plato de tradición rústica: -Cuando se sentaba para cenar, delante de la mesa redonda cubierta con un mantel de tres días, en frente de su marido que descubría la sopera declarando con aire encantado: -¡Ah! ¡Un buen pot-au-feu! No conozco nada mejor-, pensaba en las cenas finas, en los cubiertos de plata relucientes, en las tapicerías pobladas de personajes antiguos y pájaros extraños en medio de un bosque encantado; pensaba en los platos exquisitos servidos en vajillas maravillosas, en las galanterías susurradas y escuchadas con una sonrisa de esfinge, comiendo al mismo tiempo la carne rosada de una trucha o de las alas de ganso.-(Maupassant, El ornamento, 1884)."
+        ],
+        "image": "assets/images/Plato_Frances.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Pizza",
+        "description": [
+            "La pizza es un pan plano horneado, habitualmente de forma redonda, elaborado con harina de trigo, sal, agua y levadura, cubierto con salsa de tomate y queso.​ Existen gran cantidad de variedades, principalmente debido al formato del pan, la forma de cocinarlo y el agregado de diversos ingredientes (salami, tomate, champiñones, cebolla, jamón, aceitunas, morrones, ananá, huevo, verduras, anchoas, palmitos, etc.) y salsas. Su origen es dudoso,​ pero ha sido tradicionalmente atribuido a la gastronomía de Italia y más puntualmente a la cocina napolitana, razón por la cual la Unión Europea le reconoció en 2010 una denominación de origen denominada Especialidad tradicional garantizada (ETG).2​3​4​ En 2017 la UNESCO declaró al -arte de los pizzaioli (pizzeros) napolitanos- como Patrimonio Cultural Inmaterial de la Humanidad.",
+            "La pizza y la hamburguesa están consideradas las comidas más difundidas del mundo,​ aunque como consecuencia de la diáspora italiana alcanza máxima presencia en ciudades con alta proporción de descendientes de personas italianas, como Buenos Aires —que cuenta con la mayor cantidad de pizzerías por habitante—,8​ Chicago y Nueva York.",
+            "Es un plato de elaboración artesanal en la mayoría de los casos, aunque la industria alimentaria fabrica desde la década de 1950, pizzas preparadas total o parcialmente (prepizza) que se venden en los centros de ventas.",
+            "Desde 1989, tiene lugar anualmente en Italia un Campeonato Mundial de la Pizza que realiza varias competencias relacionadas con la elaboración de la pizza, premiando a quienes obtengan los tres primeros lugares en cada una de ellas.11​12​ En la edición de 2018 participaron 773 pizzaioli provenientes de 44 países."
+        ],
+        "from": "Nápoles - Italia",
+        "ingredients": "Salsa de tomate, harina, mozzarella, aceite y sal",
+        "characteristics": [
+            "La palabra pizza se utiliza en varios idiomas. Su origen se encuentra discutido. Manlio Cortelazzo y Paolo Zolli sostienen que se trata de un término derivado del alemán antiguo, que influenció el habla de los pueblos lombardos, entre los siglos XI y XII.22​ Mario Alinei y Ephraim Nissan sostienen que tiene un origen semítico, procedente del Asia occidental.23​ Otras hipótesis la derivan del latín pinsere o de la palabra griega pitta.",
+            "Este término se utiliza en todos los idiomas.",
+            "La pizza y la hamburguesa están consideradas las comidas más difundidas del mundo,6​7​ aunque como consecuencia de la diáspora italiana alcanza máxima presencia en la gastronomía de las ciudades con alta proporción de descendientes de personas italianas, como Argentina y Estados Unidos.",
+            "La pizza argentina se prepara y consume en todo el país, principalmente en Buenos Aires, ciudad que tiene una masiva proporción de habitantes descendientes de italianos y cuenta con la mayor cantidad de pizzerías por habitante del mundo.8​ La pizza argentina se caracteriza por la -media masa- (masa base de mayor grosor) y la abundancia de queso mozzarella de vaca, -hasta los bordes, para que se dore y se gratine-,29​ así como por el acompañamiento con fainá y vino moscato.30​31​ Entre las pizzerías históricas argentinas se destaca Banchero, fundada en 1932 pero originada mucho antes, en la panadería instalada por el inmigrante genovés Agustín Banchero en 1893, donde su hijo Juan inventó la fugazza y sobre todo la fugazzetta, y se generó la costumbre de acompañarla con fainá.32​29​ También se destaca la pizzería Güerrín, cuya pizza está considerada entre las mejores del mundo, con una producción diaria promedio de mil pizzas, alcanzando 1500 los fines de semana.9​33​ En Buenos Aires es muy popular también una variante conocida como «pizza de cancha», muy similar a la pizza marinera, que consiste en la masa cubierta de salsa de tomate, sin queso y fuertemente condimentada, que fue creada por los vendedores ambulantes a la salida de los partidos de fútbol.",
+            "Las pizzas con ingredientes «no tradicionales» se conocen en Estados Unidos como «pizza estilo California». En Chicago se come la pizza estilo Chicago. La pizza hawaiana es un invento alemán y consiste en una base de tomate y queso con jamón cubierta de rodajas de piña."
+        ],
+        "image": "assets/images/Plato_Italiano.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Sushi",
+        "description": [
+            "Sushi es un plato típico de origen japonés basado en arroz aderezado con vinagre de arroz, azúcar y sal y combinado con otros ingredientes como pescados, mariscos y verduras.​ Este plato es uno de los más reconocidos de la gastronomía japonesa y uno de los más populares internacionalmente.",
+            "Aunque normalmente se asocia el sushi con el pescado y el marisco, también puede llevar verduras o huevo, o incluso cualquier otro acompañante. Además, los productos frescos tradicionales que acompañan al arroz no tienen que ir siempre crudos. Se incluyen también preparaciones asadas, hervidas, fritas o marinadas. Es decir, que el nombre sushi se refiere a la preparación del arroz y que el acompañamiento, si bien es relevante en el sabor, no hace al plato en sí. Aunque existe una variedad de acompañamientos de sushi internacionalmente reconocidos y acostumbrados, lo ideal es que cada región adopte acompañamientos típicos del lugar con pescados o frutos de la región que estén identificados con el gusto y la gastronomía local. Sin embargo, debe abstenerse del uso de pescado de agua salada sin congelar previamente, dado que, puede contener anisakis, a excepción del salmón de acuicultura.",
+            "El sushi se prepara generalmente en raciones pequeñas, aproximadamente del tamaño de un bocado, y puede adoptar diversas formas. Si se sirven el pescado y el arroz enrollados en una hoja de alga nori se le llama maki (‘rollo’). Si se trata de una especie de albóndiga de arroz cubierta por el pescado hablamos de nigiri. Cuando el arroz se presenta embutido en una pequeña bolsa de tofu frito se denomina inari.7​ También puede servirse un cuenco de arroz para sushi con trozos de pescado y otros ingredientes por encima; entonces se llama chirashizushi.",
+            "Fuera de Japón el nombre sushi designa sólo a las variedades más habituales, como el makizushi o el nigirizushi; curiosamente se suele hacer extensivo al sashimi, un plato a base de pescado crudo pero sin arroz."
+        ],
+        "from": "Japón",
+        "ingredients": "La parte fundamental del sushi es el arroz especialmente preparado, aderezado con otros ingredientes esenciales.",
+        "characteristics": [
+            "El kanji japonés de sushi proviene etimológicamente del chino debido a que originalmente era un antiguo plato chino. El kanji 鮨 está relacionado con el «adobo de pescado salado». La primera mención de 鮨 apareció en el antiguo diccionario Erya (爾雅), escrito entre los siglos IV y III a. C. En ella se explicaba que «魚謂之鮨 肉謂之醢», traducido como «aquellos hechos con pescado (son llamados) 鮨, aquellos hechos con carne (son llamados) 醢». El 醢 es una salsa hecha de cerdo picado y el 鮨 es una salsa hecha de pescado picado. Se cree que el carácter 鮨 debe de tener un origen más temprano y el 鮨 no está asociado con el arroz.",
+            "Cinco siglos después, en el siglo II, otro carácter es usado para referirse al sushi 鮓, aparecido en otro diccionario chino que decía: «鮓滓也 以塩米醸之加葅 熟而食之也», traducido como «鮓滓 es una comida donde el pescado es sazonado con arroz y sal y que se come cuando está listo». Esta comida se cree que es similar al narezushi o al funazushi, en el que el pescado se fermenta durante largo tiempo junto con el arroz y se come tras separarlo del arroz.",
+            "En el siglo III, el significado de los dos caracteres se confundió y durante un tiempo cuando los dos caracteres fueron implantados en Japón, los mismos chinos no los sabían distinguir. Los chinos dejaron de usar el arroz como parte del proceso de fermentación y dejaron de comer pescado adobado. Durante la dinastía Ming, tanto 鮨 como 鮓 desaparecieron de la gastronomía de China.",
+            "Estilos y variedades",
+            "El rasgo fundamental del sushi es el arroz de sushi o sushi-meshi, aderezado con vinagre de arroz o su. Según la forma en que se rellene, se distinguen varias clases de sushi:",
+            "Principales variedades de sushi.",
+            "Makizushi (巻き寿司?): el «sushi en rollos» se monta colocando el arroz sobre una lámina de algas nori secas, y rellenándola con verduras o pescado. Ocasionalmente el nori es reemplazado con una lámina delgada de tortilla francesa (la tortilla siempre suele llevar un poco de azúcar). Utilizando una esterilla de bambú llamada makisu se enrolla el conjunto y se cierra humedeciendo el borde de la lámina de algas para que se pegue. Finalmente, se corta el rollo en porciones de unos dos centímetros de grosor; aproximadamente salen entre seis y ocho piezas. Durante el festival de Setsubun, es tradición comer makizushi sin cortar, en su forma cilíndrica. El makizushi tiene cierta afinidad con el plato coreano gimbap.",
+            "Futomaki (太巻き?): el «sushi de rollo grueso». Es cilíndrico y largo, con el nori en el exterior. El futomaki común mide de dos a tres centímetros de espesor y de cuatro a cinco centímetros de largo. A veces se confeccionan con dos o tres rellenos, elegidos para complementar y mejorar su sabor y color.",
+            "Hosomaki(細巻き ?): el «sushi de rollo delgado».Es cilíndrico y pequeño, con el nori en el exterior.El hosomaki común mide dos centímetros de espesor y dos centímetros de largo.Se confeccionan generalmente con un solo relleno, debido a su pequeño tamaño.",
+            "Kappamaki (河童巻?): sushi relleno de pepino, su nombre se deriva del yokai (demonio japonés que habita en ríos y lagos), Kappa.",
+            "Temaki(手巻き ?): el «sushi enrollado a mano» es un cono de gran tamaño formado por una hoja de nori rellena de arroz y otros ingredientes en la parte abierta del cono.Un temaki típico tiene alrededor de diez centímetros de largo y se come con la mano al ser demasiado grande como para emplear los palillos.",
+            "Uramaki(裏巻き ?): el «sushi del revés».Es un sushi de mediano tamaño y cilíndrico, con dos o más rellenos.El uramaki difiere de los otros sushi en que el arroz está en el exterior y el nori se encuentra adentro.El relleno está en el centro rodeado por una capa de nori, luego una capa de arroz, y aparte otros ingredientes como huevas o semillas tostadas de sésamo.",
+            "Oshizushi (押し寿司?): el «sushi prensado» es un bloque de arroz, prensado en un molde de madera, llamado oshibako; se recubre el fondo del oshibako con el relleno, se coloca encima el arroz y se presiona la tapa del molde para crear un bloque compacto y rectilíneo, que después se corta en rodajas.",
+            "Nigirizushi(握り寿司 ?): es posiblemente la forma más común de sushi en Japón.El «sushi amasado» es similar al oshi, pero se moldea a mano en forma de varilla oblonga; encima de un bloque de arroz se coloca pescado, marisco u otro ingrediente plano, normalmente sazonado con algo de wasabi, y a veces se añade una fina tira de alga para mantener el pescado en su sitio.Es llamado a veces Edomaezushi porque se originó en Edo(actual Tokio) en el siglo XVIII.Se sirven por lo general dos piezas en una orden.",
+            "Gunkanzushi (軍艦寿司?): llamado también como «sushi acorazado», es un sushi ovalado y amasado (similar al nigirizushi); es enrollado con una tira de nori, para formar un cuenco que se rellena con algún ingrediente, por ejemplo huevas.",
+            "Inarizushi(稲荷寿司?): conocido como «sushi relleno», es una especie de saco pequeño relleno con arroz de sushi y otros ingredientes(su nombre se deriva de la diosa sintoísta Inari, que tenía un cariño especial a los productos hechos de arroz).El saco está hecho de tōfu frito o aburaage(油揚げ ?), de una tortilla muy delgada fukusazushi(帛紗寿司 ?) o de hojas de col kanpyō(干瓢 ?).",
+            "Chirashizushi (散らし寿司?): conocido también como «sushi esparcido», es un cuenco de arroz sazonado con otros ingredientes. También se lo llama barazushi (ばら寿司?).",
+            "Edomae chirashizushi: sushi esparcido estilo Edo.Los ingredientes no se cocinan y se decoran de una manera ingeniosa sobre la bola de arroz.",
+            "Gomokuzushi (五目寿司?): sushi estilo Kansai. Los ingredientes pueden ser cocinados o no cocinados, y son puestos dentro de la bola de arroz.",
+            "Narezushi (なれ鮨?): el «sushi fermentado» es la forma de preparación más antigua y más infrecuente; las piezas de pescado enteras y limpias se salan y secan en barriles y se prensan con una pesa tsukemonoishi (piedra de adobo). Se salan entre diez días y un mes. Una vez curadas, se remojan en agua entre 15 minutos y una hora. Se colocan en un recipiente de madera. Su rasgo característico es que se elabora sin arroz, haciendo uso estrictamente de pescado y verdura. La mezcla se deja fermentar en condiciones controladas durante varios meses, prensándola constantemente con un otoshibuta y una piedra de adobo para extraer el agua. Seis meses después, puede ser consumido, y se puede conservar seis meses o más sin necesidad de ponerlo en la nevera. Para su consumo el pescado se corta en láminas delgadas. El narezushi se inventó para permitir la conservación del pescado sin emplear demasiada sal, en las zonas de clima mediterráneo de Japón; hoy es una rareza."
+        ],
+        "image": "assets/images/Sushi_Japones.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Taco",
+        "description": [
+            "Un taco es una preparación mexicana que en su forma estándar consiste en una tortilla (generalmente de maíz, también de harina de trigo, de nopal o de algún otro ingrediente) que contiene algún alimento encima. Es considerado como uno de los platillos más representativos de la comida mexicana.",
+            "Los tacos pueden ser sencillos hechos en casa para sostener los alimentos preparados en el momento, una simple tortilla enrollada, una tortilla espolvoreada con sal o también salsas picantes; también pueden ser más complejos como los tacos al pastor, de canasta o las flautas (tacos fritos o dorados), estos tacos se acompañan con diferentes elementos que pueden ser verduras, salsas, quesos rallados, cremas y limón dependiendo del tipo de taco y el gusto de la persona. Los ingredientes y acompañantes varían de región a región pero generalmente no varían algunas preparaciones. Los tacos dorados también se consumen tradicionalmente en algunos países de Centroamérica.",
+            "En la actualidad los tacos están extendidos mundialmente como un tipo de comida rápida. Sin embargo, lo que se conoce como taco a nivel internacional son los tacos de influencia estadounidense que difieren bastante en ingredientes y preparación de los mexicanos y provienen de la comida Tex-Mex, lo que influye en la forma de preparación y sabor.",
+            "De igual forma, aunque el taco estándar se hace con tortilla de algún tipo, en restaurantes mexicanos de alta gastronomía o cocina fusión, la tortilla puede ser sustituida por lechuga, hoja de cebolla o algún ingrediente similar."
+        ],
+        "from": "México",
+        "ingredients": "Tortilla de maíz, harina o trigo, queso, carne, vegetales",
+        "characteristics": [
+            "Las tortillas se consumían en la América precolombina y el modo de comerlas en taco es una herencia directa del periodo a la actualidad.",
+            "En diferentes culturas se desarrolló la tradición de una preparación a base de harina que aporta carbohidratos hecha de tal manera que queda como una superficie plana que sirve de sostén para otros alimentos. Así podemos comparar el taco con el shawarma de origen turco, preparaciones que no comparten nexos pero funcionan de la misma manera.",
+            "Una teoría sobre el posible origen de la palabra taco es el término -tlahco- del idioma náhuatl, que significa -mitad- o -en el medio-, en el sentido que el alimento se coloca en el medio de la tortilla de maíz. La palabra en náhuatl para referirse a la tortilla de maíz (invento indígena precolombino) es -tlaxcalli-.",
+            "Según ciertos investigadores, la primera taquiza (comida colectiva que consiste en comer tacos) de la que se tiene conocimiento, fue documentada por Bernal Díaz del Castillo en su crónica, -Historia Verdadera de la Conquista de la Nueva España-, y fue realizada por Hernán Cortés en Coyoacán para sus capitanes.",
+            "El nacimiento del taco proviene de las tortillas con mole prehispánicas, que eran preparadas sobre piedras calientes y decoradas con cochinilla, algunas de ellas acompañadas de frijol y chile, ingredientes que todavía constituyen la base alimenticia del pueblo mexicano. El guiso que se le ponía en ese entonces al taco, se basaba en la carne que se consumía durante esa época.",
+            "La comida mexicana se basaba en el guajolote (como se llama al pavo en el Centro de México), ya que era la única ave domesticada. También había perros sin pelo (Xoloitzcuintle) que se cebaban para el consumo. Su carne era menos estimada que la del guajolote."
+        ],
+        "image": "assets/images/Taco_Mexicano.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Hamburguesa",
+        "description": [
+            "Una hamburguesa es un tipo de sándwich hecho a base de carne molida aglutinada en forma de filete cocinado a la parrilla o a la plancha, aunque también puede freírse u hornearse. Fuera del ámbito de habla hispana, es más común encontrar la denominación inglesa burger. Se presenta en un pan ligero partido en dos que posee forma de óvalo. Suele estar acompañada de aros de cebolla, hojas de lechuga, alguna rodaja de tomate, láminas de encurtidos y patatas fritas. Se suele aliñar con algún condimento, como puede ser la salsa de tomate, la mostaza, el relish, el kétchup o la mayonesa, entre otros. En el caso de que se ponga una lámina de queso procesado, se convierte en una hamburguesa con queso (cheeseburger), denominada a veces hamburguesa amarilla (yellowburger).",
+            "La invención del bocadillo de hamburguesa en el siglo XIX es polémica, ya que diversos autores se atribuyen haber sido los primeros en haber puesto un filete de carne molida (hamburger steak) entre dos panecillos. La hamburguesa creció durante el siglo XX junto con la aparición del concepto fast food y durante ese siglo fue adquiriendo un simbolismo especial. Forma parte de uno de los alimentos icono de la cocina estadounidense (junto con el pollo frito y la tarta de manzana).1​ La primera cadena de restaurantes que puso en circulación la hamburguesa como un alimento de comida rápida fue White Castle en los años 1920 (cuyo ideólogo fue Edgar Waldo Billy Ingram),​ y posteriormente en los años 1940 con McDonalds (asumida por el ejecutivo Ray Kroc), así como Burger King.6​ La hamburguesa es, en la actualidad, un alimento tan popular que aparece con sus diversas variantes en casi todas las culturas de la tierra, al igual que otros alimentos, como pueden ser la pizza y el perro caliente."
+        ],
+        "from": "Alemania",
+        "ingredients": "Dos panes, Carne picada, Patatas fritas, Aros de cebolla, Hojas de lechuga, Tomate, Encurtidos y Condimentos.",
+        "characteristics": [
+            "Como se ha dicho, ya los patricios romanos poseían su versión de la hamburguesa. Los siguientes datos históricos acerca de la receta de la primera hamburguesa proceden de la gastronomía de las tribus mongolas y turcas, que en el siglo XIV ya picaban en tiras la carne del ganado de baja calidad para hacerla más comestible. La receta de la carne picada llega a Alemania a través de los tártaros de origen ruso (steak tartar), que comen la carne cruda y condimentada con especias. Se tiene conocimiento de un plato similar más antiguo del Imperio romano, que consistía en un tipo de hamburguesa elaborado con carne de res picada con piñones, sal y vino pasado, y servida en el interior de un pan. Hay que resaltar que no fue hasta la invención de la máquina de picar carne cuando la carne picada tomó la posibilidad de ser elaborada en grandes cantidades, pudiendo combinar grasa y otros tejidos con carne magra.",
+            "La palabra proviene de la ciudad de Hamburgo, en Alemania, el puerto más grande de Europa en aquella época. Posteriormente fueron los inmigrantes alemanes de finales del siglo XIX quienes introdujeron en los Estados Unidos el plato llamado filete estadounidense al estilo Hamburgo (en Alemania existe todavía en Hamburgo lo que se denomina frikadelle y se trata de una protohamburguesa). Un alimento muy similar es el rundstück warm. El documento más antiguo que hace referencia a este plato es una carta del Delmonicos Restaurant, que en 1834 ya la ofrecía a su clientela. En 1895 un chef llamado Louis Lassen, de Connecticut, Estados Unidos, elabora la primera hamburguesa en Norteamérica; la receta se la dieron unos marineros provenientes del puerto de Hamburgo.",
+            "Hoy en día su origen es discutido, puesto que diferentes comarcas de los Estados Unidos reclaman ser los inventores de la hamburguesa moderna. Una de las historias proviene de la ciudad de Seymour, Wisconsin, donde en 1885 a Charlie Nagreen, cuando tenía quince años de edad, trabajando en su puesto de comida de la Feria Estatal se le ocurre resolver un problema: sus clientes querían pasear por la feria mientras comían y necesitaban una forma práctica para hacerlo. Charlie colocó la carne entre dos rebanadas de pan, denominándola hamburguesa. El éxito fue tal que pronto aparecieron más inventores, como Frank Menches en 1892 durante la Feria del Condado Akron, Ohio. Lo único cierto es que, en la Feria Mundial de San Louis de 1904, la hamburguesa ya era muy famosa.",
+            "La primera cadena de hamburgueserías del mundo se denominaba White Castle y fue fundada en Wichita (Kansas) en 1921 por el cocinero Walter A. Anderson y el corredor de seguros E. W. Ingram, cuyo ámbito era el Medio Oeste de los Estados Unidos. Ofrecían como novedad el pig stand, es decir, servían las hamburguesas sin la necesidad de abandonar el vehículo (drive-in). Algo similar hicieron en California los hermanos Dick y Ronald McDonald en el año 1948.5​ Posteriormente, las hamburguesas fueron adoptando la imagen que proporcionaban las grandes cadenas de alimentación rápida."
+        ],
+        "image": "assets/images/Hamburguesa_Alemana.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Paella",
+        "description": [
+            "La paella, o también arroz a la paella,​ (del valenciano paella, que significa sartén y se refiere al recipiente con el que se hace la receta y que le da nombre, y este a su vez del latín patella) es una receta de cocina con base de arroz, con origen en la Comunidad Valenciana (España), hoy en día muy popular en toda España y también en otros países como Argentina. En esta receta el arroz se cocina junto a otros alimentos en una sartén, generalmente ancha y con asas. El nombre de paella hace referencia tanto a la receta o plato cocinado como al recipiente que se utiliza para su elaboración,1​ aunque este último recibe también el nombre de paellera, término originalmente considerado incorrecto pero que con el uso se ha ido aceptando en español.​ Se trata de un plato de origen humilde, descrito por primera vez en España en el área de la Albufera de Valencia.",
+            "La popularidad de este plato ha hecho que, en la actualidad, se haya expandido con gran cantidad de variantes adaptadas en los ingredientes a las diversas regiones de la cocina española. La paella se ha convertido en uno de los iconos de la gastronomía española.",
+            "La variedad de ingredientes hace que se denomine con el apelativo de preparación barroca por la disposición final en la presentación. Su popularidad creció tanto a lo largo del siglo XX a nivel internacional que hoy en día es un plato que puede encontrarse en los restaurantes de occidente. Esta popularidad ha hecho que la paella haya ido sufriendo transformaciones desde la receta original de la paella valenciana (concepto sujeto a mucha discusión11​) y hayan aparecido variantes que se resumen en paella marinera, elaborada con una combinación de pescado y/o marisco; paella mixta; en ocasiones también denominada mar y montaña, que consiste en una mezcla de carne y marisco (o pescado) y la paella de montaña, que incorpora distintos productos típicos de cada región tales como costilla, conejo y pollo."
+        ],
+        "from": "Valencia - España",
+        "ingredients": "Arroz, aceite de oliva, Azafrán, pollo, conejo, ejote, sal, tomate, pallar y Agua",
+        "characteristics": [
+            "La palabra española paella proviene directamente del valenciano y significa -sartén-;​ deriva del latín patella, como también derivan el antiguo español padilla, el leonés payecha/payella, antiguo paila [painlla en Ancares], el italiano padella o el francés poêle. En latín patella es un diminutivo de patina, que significa plato plano y ancho, o bien sartén.",
+            "En español la palabra paella se usa sobre todo para la receta, mientras que para el recipiente típicamente usado para cocinarla (sartén ancha con dos asas) se suele decir paellera y más raramente también paella.",
+            "En los países árabes está muy extendido el mito de que la palabra paella deriva del árabe baqiya, que significa restos.",
+            "El autor Carlos Azcoytia, en su trabajo llamado -Una aproximación a la historia del arroz en occidente y la paella-, indica que el nombre del plato tiene su origen en el italiano padella, nombre con el que se conoce un tipo de sartenes italianas con asas, similares a la utilizada para la paella.​ Según esta versión, durante el dominio español sobre Italia, entre los siglos XVI y XVII, algún emigrante italiano trajo aquel utensilio a la península ibérica, y este fue adoptado por los habitantes del lugar."
+        ],
+        "image": "assets/images/Paella_España.jpg"
+    }
+]
