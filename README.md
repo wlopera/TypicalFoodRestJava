@@ -3,6 +3,8 @@ Servicio Java RESTFULL - Platos típicos.
 
 Proyecto para CRUD de  platos tipicas por paises. Realizado con Java - Maven - Spring 
 
+ver: https://github.com/wlopera/TypicalFood.git
+
 ## Servidor
 
 Levantar Servidor 'Tomcat' para subir el servidor de desarrollo. Navegar a  'http://localhost:8080/food/allFood'. 
