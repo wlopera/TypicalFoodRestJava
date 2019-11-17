@@ -9,6 +9,7 @@ Levantar Servidor 'Tomcat' para subir el servidor de desarrollo. Navegar a  'htt
 Para consulta de servicio Rest - GET
 
 ## Salida del programa
-![Captura_1](https://user-images.githubusercontent.com/7141537/68266422-12578a80-001d-11ea-9448-39c4ebff51a6.PNG)
-![Captura_2](https://user-images.githubusercontent.com/7141537/68266426-14214e00-001d-11ea-96ed-958f36c18fae.PNG)
-![Captura_3](https://user-images.githubusercontent.com/7141537/68266429-15eb1180-001d-11ea-8cce-da5bcdfe69b2.PNG)
+![comidaTipica1](https://user-images.githubusercontent.com/7141537/69003078-bbc63800-08c9-11ea-862e-1754005ee3ac.PNG)
+![comidaTipica2](https://user-images.githubusercontent.com/7141537/69003079-bbc63800-08c9-11ea-8e66-df65bff1478e.PNG)
+![comidaTipica3](https://user-images.githubusercontent.com/7141537/69003080-bc5ece80-08c9-11ea-8235-eec422b7b063.PNG)
+![comidaTipica4](https://user-images.githubusercontent.com/7141537/69003077-bbc63800-08c9-11ea-8c89-3380067566d4.PNG)
