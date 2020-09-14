@@ -1,4 +1,4 @@
-# TypicalFoodRestJava    autor: wlopera      @ NOV 2019
+# TypicalFoodRestJava    autor: wlopera      @ SEP 2020
 Servicio Java RESTFULL - Platos típicos.
 
 Proyecto para CRUD de  platos tipicas por paises. Realizado con Java - Maven - Spring 
