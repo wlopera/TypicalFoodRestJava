@@ -24,7 +24,7 @@ Llamada al servicio Rest desde el cliente (Request)
 Resultado de la consulta (Response)
 ![comidaTipica4](https://user-images.githubusercontent.com/7141537/69003077-bbc63800-08c9-11ea-8c89-3380067566d4.PNG)
 
-## Agregando servicios POST y consutar x Identificador y despliegue - thymeleaf
+## Servicio POST para consulta x Identificador y despliegue - thymeleaf
 ![Captura2](https://user-images.githubusercontent.com/7141537/93132757-d01ac300-f69b-11ea-8435-6c61308dcb67.PNG)
 ![Captura3](https://user-images.githubusercontent.com/7141537/93132759-d14bf000-f69b-11ea-810c-d7b6a0935c29.PNG)
 ![Captura4](https://user-images.githubusercontent.com/7141537/93132760-d14bf000-f69b-11ea-827f-4d8f0e1e43f8.PNG)
