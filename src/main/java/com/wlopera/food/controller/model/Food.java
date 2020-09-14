@@ -1,4 +1,4 @@
-package com.wlopera.food.model;
+package com.wlopera.food.controller.model;
 
 import java.util.List;
 
@@ -6,12 +6,14 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
+import lombok.extern.slf4j.Slf4j;
 
 @Getter
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-public class FoodDTO {
+@Slf4j
+public class Food {
 
 	private Integer id;
 	private String name;

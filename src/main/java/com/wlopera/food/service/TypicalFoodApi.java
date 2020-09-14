@@ -15,4 +15,16 @@ public interface TypicalFoodApi {
 	 */
 	List<FoodDTO> getFoods() throws Exception;
 
+	/**
+	 * Consulta un plato típico por identificador.
+	 * 
+	 * @param id Identificador a onsultar
+	 * 
+	 * @return Plato tipicos para ese identificador
+	 * 
+	 * @throws Exception
+	 */
+	FoodDTO getFoodById(Integer id) throws Exception;
+	
+	
 }

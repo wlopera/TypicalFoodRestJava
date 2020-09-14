@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1" />
+<title>Plato T&iacute;pico</title>
+<link rel="stylesheet"
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script
+	src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script
+	src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+
+<script>
+	/**
+	 * Funcion que permite validaciones 
+	 */
+	function validateChecked() {
+		alert("llamada a botón")
+	}
+
+</script>
+</head>
+<body>
+	<div class="container mt-3">
+		<h2>Plato T&iacute;pico</h2>
+		<hr>
+		
+		<form action="#" th:action="@{/food/foodById}" th:object="${food}"
+			method="post">
+			<div class="input-group mb-3">
+				<div class="input-group-prepend">
+					<span class="input-group-text">Seleccione Platos T&iacute;picos</span>
+				</div>
+				<select class="form-control" name="id" id="id" th:field="*{id}">
+			     <option value="0">Seleccione</option>
+			     <option th:each="foodcmb : ${foodList}"
+			             th:value="${foodcmb.id}"
+			             th:text="${foodcmb.name}">
+			     </option>
+	    	</select>
+	    	<div class="input-group-prepend">
+	    			<button type="submit" class="btn btn-outline-primary btn-block">Consultar</button>
+	    	</div>
+			</div>
+		  <div class="input-group mb-3">
+		  <!-- 
+				<div class="input-group-prepend">
+					<span class="input-group-text">Nombre</span>
+				</div>
+				<input type="text" th:field="*{name}" id="name"
+					class="form-control">
+			</div>
+			-->
+						<div class="input-group mb-3">
+				<div class="input-group-prepend">
+					<span class="input-group-text">De</span>
+				</div>
+				<input type="text" th:field="*{from}" id="country"
+					class="form-control">
+			</div>
+						<div class="input-group mb-3">
+				<div class="input-group-prepend">
+					<span class="input-group-text">Descripci&oacute;n</span>
+				</div>
+				<textarea type="text" th:field="*{characteristics}" id="characteristics"
+					rows="4" class="form-control" ></textarea>
+			</div>
+			<div class="input-group mb-3">
+				<div class="input-group-prepend">
+					<span class="input-group-text">Ingredientes</span>
+				</div>
+				<textarea type="text" th:field="*{ingredients}" id="country"
+					rows="2" class="form-control"></textarea>
+			</div>
+			<div class="input-group mb-3">
+				<div class="input-group-prepend">
+					<span class="input-group-text">Imagen</span>
+				</div>
+				<img th:src="*{image}"/>
+			</div>
+		</form>
+	</div>
+</body>
+</html>
